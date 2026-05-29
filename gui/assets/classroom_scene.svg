@@ -1,0 +1,67 @@
+<svg width="900" height="560" viewBox="0 0 900 560" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="62" y1="28" x2="790" y2="514" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#172847"/>
+      <stop offset="0.58" stop-color="#203A61"/>
+      <stop offset="1" stop-color="#13243B"/>
+    </linearGradient>
+    <linearGradient id="window" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#89E2FF"/>
+      <stop offset="1" stop-color="#4FA4FF"/>
+    </linearGradient>
+    <linearGradient id="board" x1="158" y1="108" x2="739" y2="222" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#101B2E"/>
+      <stop offset="1" stop-color="#162847"/>
+    </linearGradient>
+  </defs>
+  <rect x="18" y="18" width="864" height="524" rx="40" fill="url(#bg)" stroke="#2F4E76" stroke-width="3"/>
+
+  <rect x="122" y="84" width="656" height="126" rx="26" fill="url(#board)" stroke="#35557E" stroke-width="4"/>
+  <text x="166" y="138" fill="#F7FBFF" font-size="38" font-weight="700" font-family="Segoe UI, Arial, sans-serif">FACETRACK</text>
+  <text x="166" y="178" fill="#8EDBFF" font-size="18" font-weight="600" font-family="Segoe UI, Arial, sans-serif">Attendance and identity verification for smart classrooms</text>
+  <rect x="166" y="188" width="198" height="8" rx="4" fill="#2E7FF7" fill-opacity="0.65"/>
+
+  <g opacity="0.95">
+    <rect x="106" y="244" width="116" height="106" rx="20" fill="#21395D"/>
+    <rect x="120" y="258" width="88" height="78" rx="14" fill="url(#window)"/>
+    <path d="M164 258V336" stroke="#EAF4FF" stroke-opacity="0.7" stroke-width="3"/>
+    <path d="M120 296H208" stroke="#EAF4FF" stroke-opacity="0.7" stroke-width="3"/>
+  </g>
+
+  <g opacity="0.95">
+    <rect x="678" y="244" width="116" height="106" rx="20" fill="#21395D"/>
+    <rect x="692" y="258" width="88" height="78" rx="14" fill="url(#window)"/>
+    <path d="M736 258V336" stroke="#EAF4FF" stroke-opacity="0.7" stroke-width="3"/>
+    <path d="M692 296H780" stroke="#EAF4FF" stroke-opacity="0.7" stroke-width="3"/>
+  </g>
+
+  <path d="M180 392H720" stroke="#3B5B85" stroke-width="8" stroke-linecap="round"/>
+  <path d="M214 392L198 500" stroke="#3B5B85" stroke-width="8" stroke-linecap="round"/>
+  <path d="M686 392L702 500" stroke="#3B5B85" stroke-width="8" stroke-linecap="round"/>
+
+  <g>
+    <circle cx="258" cy="338" r="22" fill="#EBC8A5"/>
+    <rect x="230" y="356" width="56" height="34" rx="14" fill="#12243D"/>
+    <rect x="220" y="386" width="76" height="24" rx="12" fill="#46C8FF"/>
+    <rect x="226" y="410" width="64" height="14" rx="7" fill="#0D1728"/>
+  </g>
+
+  <g>
+    <circle cx="450" cy="320" r="24" fill="#EBC8A5"/>
+    <rect x="420" y="340" width="60" height="36" rx="14" fill="#142B46"/>
+    <rect x="406" y="372" width="88" height="28" rx="14" fill="#6F83FF"/>
+    <rect x="414" y="400" width="72" height="16" rx="8" fill="#0D1728"/>
+    <circle cx="524" cy="364" r="20" fill="#163258"/>
+    <path d="M524 352V364L534 370" stroke="#F8FBFF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <g>
+    <circle cx="642" cy="338" r="22" fill="#EBC8A5"/>
+    <rect x="614" y="356" width="56" height="34" rx="14" fill="#12243D"/>
+    <rect x="604" y="386" width="76" height="24" rx="12" fill="#62E6C0"/>
+    <rect x="610" y="410" width="64" height="14" rx="7" fill="#0D1728"/>
+  </g>
+
+  <rect x="338" y="430" width="224" height="52" rx="18" fill="#15263F" stroke="#35557E" stroke-width="2"/>
+  <text x="370" y="463" fill="#EAF3FF" font-size="20" font-weight="600" font-family="Segoe UI, Arial, sans-serif">Classroom Attendance Session</text>
+</svg>
